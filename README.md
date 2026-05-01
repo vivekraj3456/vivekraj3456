@@ -22,9 +22,6 @@
 
 <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" />
 
-
-<img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" />
-
 ## 🧑‍💻 Tech Stack
 
 <p align="center">
