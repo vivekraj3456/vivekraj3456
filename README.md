@@ -7,7 +7,7 @@
 
 <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" />
 
-<img align="right" alt="coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="coding" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ## 👨‍💻 About Me
 
@@ -24,12 +24,75 @@
 
 ## 🧑‍💻 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,react,nodejs,git,github,mysql,mongodb,vscode,linux" />
-</p>
+<table width="100%">
+<tr>
+<td align='center'>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60"/><br><b>C</b>
+</td>
+<td align='center'>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60"/><br><b>C++</b>
+</td>
+<td align='center'>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60"/><br><b>Java</b>
+</td>
+<td align='center'>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/><br><b>Python</b>
+</td>
+<td align='center'>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60"/><br><b>PHP</b>
+</td>
+</tr>
+
+<tr>
+<td align='center'>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="60"/><br><b>Laravel</b>
+</td>
+<td align='center'>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60"/><br><b>HTML</b>
+</td>
+<td align='center'>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60"/><br><b>CSS</b>
+</td>
+<td align='center'>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"/><br><b>JavaScript</b>
+</td>
+<td align='center'>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60"/><br><b>React</b>
+</td>
+</tr>
+
+<tr>
+<td align='center'>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60"/><br><b>Node.js</b>
+</td>
+<td align='center'>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60"/><br><b>Git</b>
+</td>
+<td align='center'>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60"/><br><b>GitHub</b>
+</td>
+<td align='center'>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60"/><br><b>MySQL</b>
+</td>
+<td align='center'>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60"/><br><b>MongoDB</b>
+</td>
+</tr>
+
+<tr>
+<td align='center'>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60"/><br><b>VS Code</b>
+</td>
+<td align='center'>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60"/><br><b>Linux</b>
+</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
 
 <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" />
-
 
 ## 📊 GitHub Stats
 
@@ -38,8 +101,19 @@
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=vivekraj3456&theme=tokyonight&hide_border=true"/>
 </p>
 
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekraj3456&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
 <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" />
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vivekraj3456&theme=onestar&no-frame=true&no-bg=true"/>
+</p>
+
+<img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" />
 
 ## 🐍 Contribution Snake
 
@@ -49,13 +123,11 @@
 
 <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" />
 
-
 ## 👀 Profile Views
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vivekraj3456&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
-
 
 <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" />
 
@@ -80,6 +152,5 @@
 </p>
 
 <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" />
-
 
 <h3 align="center">⭐ If you like my work, consider giving a star!</h3>
